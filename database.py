@@ -88,7 +88,7 @@ database_option = {
     "Host": "127.0.0.1",
     "Port": "1433",
     "User_ID": "sa",
-    "Password": "f2bPmctkxFb0Lwv6beFBXA=="
+    "Password": "password"
 }
 
 connection = open_database(database_option)
